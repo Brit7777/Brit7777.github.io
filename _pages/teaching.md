@@ -1,11 +1,9 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /CV/
+title: CV
+description: This is my up-to-date curriculum vitae.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<iframe src="https://drive.google.com/file/d/1KKw1QsgbII0phrzAji4b-YGLXf2NuA1_/preview" width="900" height="1000"></iframe>
